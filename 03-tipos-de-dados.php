@@ -6,7 +6,6 @@ declare(strict_types=1);
     array
     string
     null
-    string
     float
 */
 
